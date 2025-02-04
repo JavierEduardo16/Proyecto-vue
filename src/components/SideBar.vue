@@ -3,9 +3,14 @@
 <h2>Barra lateral</h2>
 <ul>
     <li>
-<router-link to="/contador">Contador</router-link></li>
-<li>
-<router-link to="/lista-de-tareas">lista de tareas</router-link></li>
+        <router-link to="/contador">Contador</router-link></li>
+    <li>
+        <router-link to="/lista-de-tareas">lista de tareas</router-link>
+    </li>
+
+    <li>
+        <router-link to="/registrar">registrar</router-link>
+    </li>
 </ul>
 </div>
 
