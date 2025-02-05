@@ -13,6 +13,9 @@
     <li>
         <router-link to="/registrar">registrar</router-link>
     </li>
+    <li>
+        <router-link to="/calcular">calcular</router-link>
+    </li>
 </ul>
 </div>
 
