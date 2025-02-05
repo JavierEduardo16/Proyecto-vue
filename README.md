@@ -33,3 +33,7 @@ npm run build
 ```sh
 npm run lint
 ```
+## Autor
+- Nombre: Javier Eduardo Espinoza Leal 
+- Email: a22311074@uthermosillo.edu.mx
+- GitHub: [@JavierEduardo16](https://github.com/JavierEduardo16)
